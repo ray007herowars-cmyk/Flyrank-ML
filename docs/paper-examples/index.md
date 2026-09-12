@@ -1,6 +1,6 @@
 # Refresh / Content Opportunity Scoring
 
-**Author:** G.P. Revanth Raj
+**Author:** G P Revanth Raj
 
 **Lane:** Refresh / Content Opportunity Scoring
 
